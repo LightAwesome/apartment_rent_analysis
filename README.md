@@ -42,10 +42,10 @@ Feel free to customize the analysis based on your specific research questions an
 ## Acknowledgments
 The dataset used in this analysis is sourced from [Heart Disease Analysis](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=heart.csv).
 ## Collaborators:
-Touseef Ansari
-Jerry Nguyen
-Cadence Parker
-Nadia Nafeesa Binti Rashid
+- Touseef Ansari
+- Jerry Nguyen
+- Cadence Parker
+- Nadia Nafeesa Binti Rashid
 
 
 Happy coding!

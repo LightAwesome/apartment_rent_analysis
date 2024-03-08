@@ -4,7 +4,7 @@ Data Analysis of classified for apartments for rent in USA, in R
 # Apartment Rent Analysis in R
 
 ## Dataset Overview
-?
+This dataset contains information about rental properties, including apartments, studios, and houses. Below is a brief overview of the dataset columns:
 
 ### Attributes
 
